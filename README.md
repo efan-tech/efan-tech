@@ -1,4 +1,4 @@
-markdown
+
 # Hi there, I'm efan-tech! 👋
 
 Welcome to my profile! I'm an aspiring developer working on some cool projects.
