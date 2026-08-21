@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm ephan
+# Hi there! 👋 I'm Ephan
 
 A **Full-Stack Developer** passionate about building modern web applications, optimizing database performance, and engineering seamless digital experiences.
 
