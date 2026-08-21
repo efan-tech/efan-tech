@@ -1,18 +1,25 @@
-# Hi there! 👋 I'm Ephan
 
-A **Full-Stack Developer** passionate about building modern web applications, optimizing database performance, and engineering seamless digital experiences.
+
+
+# Ephan — 𝔉𝔲𝔩𝔩-𝔖𝔱𝔞𝔠𝔨 𝔇𝔢𝔳𝔢𝔩𝔬𝔟𝔢𝔯
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Ephan%20%7C%20efan-tech&fontSize=45&fontAlign=50&fontAlignY=35&fontFamily=Italianno" alt="Header Banner" />
+</p>
+
+` 𝔸 𝔭𝔞𝔰𝔰𝔦𝔬𝔫𝔞𝔱𝔢 𝔉𝔲𝔩𝔩-𝕊𝔱𝔞𝔠𝔨 𝔇𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯 𝔣𝔬𝔠𝔲𝔰𝔢𝔡 𝔬𝔫 𝕓𝕦𝕚𝕝𝕕𝕚𝕟𝕘 𝔪𝔬𝔡𝔢𝔯𝔫 𝕨𝕖𝕓 𝔞𝔭𝔭𝔩𝔦𝔠𝔞𝔱𝔦𝔬𝔫𝔰, 𝔬𝔭𝔱𝔦𝔪𝔦𝔟𝔦𝔫𝔤 𝕕𝕒𝕥𝕒𝕓𝕒𝕤𝕖𝔰, 𝔞𝔫𝔡 𝕖𝕟𝕘𝕚𝕟𝕖𝕖𝕣𝕚𝕟𝕘 𝔰𝔢𝔞𝔪𝔩𝔢𝔰𝔰 𝔡𝔦𝔤𝔦𝔱𝔞𝔩 𝕖𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕔𝕢𝔰. `
 
 ---
 
-### ⚡ Quick Overview
+### ⚡ ℚ𝕦𝕚𝕔𝕜 𝕆𝕧𝕖𝕣𝕧𝕚𝕖𝕨
 
-- 🔭 **Currently focused on:** Full-Stack Web Development & Modern Frontend Interfaces
-- 🛠️ **Core Expertise:** JavaScript, React, Node.js, and SQL Systems
-- 🎯 **Looking to collaborate on:** Open-source projects, modern web apps, and API services
+- 🔭 **𝔫𝔲𝔯𝔯𝔢𝔫𝔱𝔩𝔶 𝔣𝔬𝔠𝔲𝔰𝔢𝔡 𝔬𝔫:** `Full-Stack Web Development & Modern Frontend Interfaces`
+- 🛠️ **ℂ𝕠𝕣𝕖 𝔈𝔡𝔭𝔢𝔯𝔱𝔦𝔰𝔢:** 𝔍𝔞𝔳𝔞𝔈𝔠𝔯𝔦𝔅𝔱, ℜ𝔢𝔞𝔠𝔱, 𝔏𝔬𝔡𝔢.𝔧𝔰, 𝔞𝔫𝔡 𝕊ℚ𝕃 𝕊𝕪𝕤𝕥𝕖𝕞𝕤
+- 🎯 **𝕃𝔬𝔬𝕜𝔦𝔫𝔤 𝔱𝔬 𝔠𝔬𝔩𝔩𝔞𝔟𝔬𝔯𝔞𝔱𝔢 𝔬𝔫:** `Open-source projects, modern web apps, and API services`
 
 ---
 
-### 🛠️ Tech Stack & Utilities
+### 🛠️ 𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜 & 𝕌𝕥𝕚𝕝𝕚𝕥𝕚𝕖𝕤
 
 <p align="left">
   <!-- Core Languages & SQL -->
@@ -35,9 +42,6 @@ A **Full-Stack Developer** passionate about building modern web applications, op
 
 ---
 
-
----
-
-### 🌐 Featured Work
-Community Hub
+### 🌐 Featured projects 
+ℂ𝕠𝕞𝕞𝕦𝕟𝕚𝕥𝕪 ℍ𝕦𝕓
 
