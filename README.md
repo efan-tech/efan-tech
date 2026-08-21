@@ -1,26 +1,18 @@
 # Hi there! 👋 I'm Ephan
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=150&section=header&text=EPHAN%20%7C%20efan-tech&fontSize=50&fontAlign=50&fontAlignY=35&fontFamily=Italianno" alt="Header Banner" />
-</p>
-
-> 🚀 **Full-Stack Developer** passionate about building modern web applications, optimizing databases, and engineering seamless digital experiences.
+A **Full-Stack Developer** passionate about building modern web applications, optimizing database performance, and engineering seamless digital experiences.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=181717&height=50&section=header&text=QUICK%20OVERVIEW&fontSize=24&fontAlign=50&fontAlignY=50&fontFamily=Bebas+Neue" alt="Quick Overview Header" />
-</p>
+### ⚡ Quick Overview
 
-* 🔭 **Currently focused on:** Full-Stack Web Development & Modern Frontend Interfaces
-* 🛠️ **Core Expertise:** JavaScript, React, Node.js, and SQL Systems
-* 🎯 **Looking to collaborate on:** Open-source projects, modern web apps, and API services
+- 🔭 **Currently focused on:** Full-Stack Web Development & Modern Frontend Interfaces
+- 🛠️ **Core Expertise:** JavaScript, React, Node.js, and SQL Systems
+- 🎯 **Looking to collaborate on:** Open-source projects, modern web apps, and API services
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=181717&height=50&section=header&text=TECH%20STACK%20%26%20UTILITIES&fontSize=24&fontAlign=50&fontAlignY=50&fontFamily=Montserrat" alt="Tech Stack Header" />
-</p>
+### 🛠️ Tech Stack & Utilities
 
 <p align="left">
   <!-- Core Languages & SQL -->
@@ -43,11 +35,12 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=181717&height=50&section=header&text=COMMUNITY%20HUB&fontSize=24&fontAlign=50&fontAlignY=50&fontFamily=Bebas+Neue" alt="Community Hub Header" />
-</p>
 
-```sql
-SELECT project_name, tech_stack, status 
-FROM ephan_tech_community 
-WHERE status = 'ACTIVE';
+
+---
+
+### 🌐 Featured projects
+
+Community Hub
+
+
