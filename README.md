@@ -35,14 +35,6 @@ A **Full-Stack Developer** passionate about building modern web applications, op
 
 ---
 
-### 📊 GitHub Activity & Insights
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efan-tech&show_icons=true&theme=tokyonight&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=efan-tech&layout=compact&theme=tokyonight)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=efan-tech&theme=tokyonight)
-
 
 ---
 
