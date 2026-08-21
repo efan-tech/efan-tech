@@ -37,14 +37,12 @@ A **Full-Stack Developer** passionate about building modern web applications, op
 
 ### 📊 GitHub Activity & Insights
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=efan-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efan-tech&layout=compact&theme=tokyonight&hide=python" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efan-tech&show_icons=true&theme=tokyonight&include_all_commits=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=efan-tech&theme=tokyonight" alt="Streak Stats" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=efan-tech&layout=compact&theme=tokyonight)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=efan-tech&theme=tokyonight)
+
 
 ---
 
