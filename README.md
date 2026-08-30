@@ -46,7 +46,7 @@ I am always open to connecting with fellow developers, recruiters, or project co
 
 ---
 
-### 🛠️ Tech Stack & Utilities
+### Tech Stack & Utilities
 
 <p align="left">
   <!-- Core Languages & SQL -->
