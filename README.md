@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Albert
+# Hi there!  I'm Albert
 
 A **Full-Stack Developer** passionate about building modern web applications, optimizing database performance, and engineering seamless digital experiences.
 
