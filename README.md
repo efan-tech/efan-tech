@@ -4,7 +4,7 @@ A **Full-Stack Developer** passionate about building modern web applications, op
 
 ---
 
-### 🚀 My 12-Week Development Journey
+### My 12-Week Development Journey
 
 My coding path started from **absolute zero**—knowing zero programming concepts—and over an intensive 12-week journey, I worked my way up to building complete full-stack web applications:
 
@@ -15,15 +15,15 @@ My coding path started from **absolute zero**—knowing zero programming concept
 
 ---
 
-### ⚡ Quick Overview
+### Quick Overview
 
-- 🔭 **Currently focused on:** Full-Stack Web Development & Modern Frontend Interfaces
-- 🛠️ **Core Expertise:** JavaScript, React, Node.js, and SQL Systems
-- 🎯 **Looking to collaborate on:** Open-source projects, freelance work, and modern web applications
+-  **Currently focused on:** Full-Stack Web Development & Modern Frontend Interfaces
+- **Core Expertise:** JavaScript, React, Node.js, and SQL Systems
+-  **Looking to collaborate on:** Open-source projects, freelance work, and modern web applications
 
 ---
 
-### 📬 Let's Connect!
+###  Let's Connect!
 
 I am always open to connecting with fellow developers, recruiters, or project collaborators. Feel free to reach out:
 
@@ -70,7 +70,7 @@ I am always open to connecting with fellow developers, recruiters, or project co
 
 ---
 
-### 🌐 Featured Projects
+### Featured Projects
 
 * **CommunityHub**
   * A full-stack web application designed for community engagement and resource sharing.
@@ -81,10 +81,10 @@ I am always open to connecting with fellow developers, recruiters, or project co
 
 ---
 
-### 🏊 Beyond the Code (Hobbies & Interests)
+### Beyond the Code (Hobbies & Interests)
 
 When I'm away from the terminal, you can usually find me recharging through a few favorite activities:
 
-* 🏊 **Swimming:** Hitting the pool for laps to stay sharp and clear my mind.
-* 🎧 **Tech Podcasts & Music:** Catching up on modern tech news or tuning into deep focus playlists while relaxing.
-* ♟️ **Gaming & Strategy:** Enjoying logical puzzles and casual multiplayer games to unwind.
+*  **Swimming:** Hitting the pool for laps to stay sharp and clear my mind.
+*  **Tech Podcasts & Music:** Catching up on modern tech news or tuning into deep focus playlists while relaxing.
+* **Gaming & Strategy:** Enjoying logical puzzles and casual multiplayer games to unwind.
