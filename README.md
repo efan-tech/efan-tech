@@ -19,7 +19,7 @@ My coding path started from **absolute zero**—knowing zero programming concept
 
 -  **Currently focused on:** Full-Stack Web Development & Modern Frontend Interfaces
 - **Core Expertise:** JavaScript, React, Node.js, and SQL Systems
--  **Looking to collaborate on:** Open-source projects, freelance work, and modern web applications
+-  **Looking to collaborate on:** Open-source projects, freelance work, and modern web applications this will be good for the betterment of projects 
 
 ---
 
